@@ -21,5 +21,5 @@
    ```bash  
    node index   
 3. Запуск клиента:
-  - перейти в папку **front**
-  - ипользуйте Live server.
+    - перейти в папку **front**
+    - ипользуйте Live server.
